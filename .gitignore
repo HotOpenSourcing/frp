@@ -21,7 +21,6 @@ lastversion/
 .cache/
 dist/
 .idea/
-.vscode/
 .autogen_ssh_key
 client.crt
 client.key
@@ -35,3 +34,4 @@ node_modules/
 .claude/
 .sisyphus/
 .superpowers/
+config.bat
